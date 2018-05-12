@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Emile_Verhaeren
     - http://fr.wikipedia.org/wiki/%C3%89mile_Verhaeren
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45468#Les-Heures-du-Soir---Pr-c-d-es-de-les-Heures-claires-Les-Heures-d-apr-s-midi
 gutenberg_bookshelf:
 - FR Poésie
 - FR Littérature francophone

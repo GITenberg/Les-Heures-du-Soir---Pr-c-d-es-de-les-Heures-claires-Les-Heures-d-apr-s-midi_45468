@@ -1,0 +1,35 @@
+_repo: Les-Heures-du-Soir---Pr-c-d-es-de-les-Heures-claires-Les-Heures-d-apr-s-midi_45468
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verhaeren, Emile
+    aliases:
+    - Verhaeren, Emile
+    - Verhaeren, Émile
+    birthdate: 1855
+    deathdate: 1916
+    gutenberg_agent_id: '3287'
+    url: http://www.gutenberg.org/2009/agents/3287
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Emile_Verhaeren
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Verhaeren
+description: ''
+gutenberg_bookshelf:
+- FR Poésie
+- FR Littérature francophone
+gutenberg_issued: '2014-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45468'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Belgian poetry (French)'
+title: Les Heures du Soir - Précédées de les Heures claires, Les Heures d'après-midi
+url: http://www.gutenberg.org/ebooks/45468
